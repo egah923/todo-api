@@ -1,4 +1,4 @@
-# Todo List API — Docker Assignment 3
+# Todo List API — Docker 
 
 A simple Todo List REST API built with **Python, Flask, and SQLite**, packaged into a single Docker container.
 
